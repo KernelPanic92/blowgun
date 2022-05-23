@@ -1,3 +1,3 @@
 library blowgun;
 
-export 'src/blowgun_base.dart';
+export 'src/api/api.dart';
